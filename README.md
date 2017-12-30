@@ -1,10 +1,10 @@
 # React Redux Starter
 
-#Getting Started
+# Getting Started
 
-Clone this repo, install dependencies, then start webpack:
+br Clone this repo, install dependencies, then start webpack:
 
-> git clone https://github.com/webberdoo/react-redux-starter.git
-> cd react-redux-starter
-> npm install
-> 'npm start' or just 'webpack' to manually build your app
+br > git clone https://github.com/webberdoo/react-redux-starter.git
+br > cd react-redux-starter
+br > npm install
+br > 'npm start' or just 'webpack' to manually build your app
